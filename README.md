@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en Infracommerce México una empresa de Ecommerce <br>👯 Estoy buscando colaborar en algun proyecto que aumente mis habilidades<br>🤝 Me capacito en cursos en linea y busco ayuda de mis amigos<br>🌱Actualmente estoy aprendiendo a utilizar nuevas librerias de React.js y mejorando mi habilidad para diseñar<br>💬 Al principio de este largo camino comence con Backend  y despues logre aprender cosas del front end y perfeccionarlo con ReactJS<br>⚡ En una charla se me olvido completamente lo que iba a decir, estaba muy nerviosa jajaja..
+🔭 Actualmente estoy trabajando en Infracommerce México una empresa de Ecommerce <br>🌱Actualmente estoy aprendiendo a utilizar nuevas librerias de React.js y mejorando mi habilidad css <br>💬 Al principio de este largo camino comence con Backend  y despues logre aprender cosas del front end con ayuda de ReactJS<br>⚡ Mi primera charla en la comunidad Dev fue de C#
 
 
 ## 🌐 Socials:
