@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en Infracommerce México Lider de Comercio Eléctronico. <br>🌱Actualmente estoy aprendiendo a utilizar nuevas librerias de React.js y mejorando mi habilidad en css. <br>💬 Al principio de este largo camino comence con Backend  y despues logre aprender cosas del front end<br>⚡ Mi primera charla en la comunidad Dev fue de C#
+🔭 Actualmente estoy trabajando en Infracommerce México Lider de Comercio Eléctronico. <br>🌱Actualmente estoy aprendiendo a utilizar nuevas librerias de React.js, mejorando mi habilidad en css y aprendiendo vtex io <br>💬 Al principio de este largo camino comence con Backend  y despues logre aprender cosas del front end<br>⚡ Mi primera charla en la comunidad Dev fue de C#
 
 
 ## 🌐 Socials:
